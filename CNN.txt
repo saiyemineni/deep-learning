@@ -1,0 +1,7 @@
+
+
+
+Convolution Neural Network
+ 1.filters
+ 2.padding
+ 
